@@ -13,6 +13,7 @@ uniform int size;
 
 ivec2 rel[] = ivec2[8](ivec2(1,1),
 ivec2(1,-1),
+///
 ivec2(-1,1),
 ivec2(-1,-1),
 ivec2(0,1),
